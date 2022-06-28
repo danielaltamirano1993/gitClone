@@ -22,7 +22,11 @@ cd LabelInputSvelte
 ```javascript
 npm init 
 ```
+# Abrir en vscode
 
+```
+code .
+```
 # y Listo.
 
 
